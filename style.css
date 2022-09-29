@@ -1,0 +1,58 @@
+
+
+.naglowek{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    float: left;
+    text-align: center;
+    color: yellow;
+}
+
+.panel{
+    background-color: darkgray;
+    width: 100%;
+    height: 650px;
+    float: left;
+    text-align: center;
+    color:yellow;
+}
+.panel2{
+    background-color: darkgray;
+    float:left;
+    width: 25%;
+    height: 50px;
+    text-align: center;
+    color: yellow;
+}
+.panel3{
+    background-color: darkgray;
+    float:left;
+    width: 25%;
+    height: 50px;
+    text-align: center;
+    color: yellow;
+}
+.panel4{
+    background-color: darkgray;
+    float:left;
+    width: 25%;
+    height: 50px;
+    text-align: center;
+    color:yellow; 
+}
+.panel5{
+    background-color: darkgray;
+    float:left;
+    width: 25%;
+    height: 50px;
+    text-align: center;
+    color: yellow;  
+}
+
+.stopka{
+    background-color: gray;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
